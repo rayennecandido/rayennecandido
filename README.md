@@ -25,7 +25,6 @@
   <a href="https://www.linkedin.com/in/rayennecandido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/rayennecandido/rayennecandido/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/rayennecandido/rayennecandido/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+![snake gif](https://github.com/rayennecandido/rayennecandido/blob/output/github-contribution-grid-snake.gif)
 
 
